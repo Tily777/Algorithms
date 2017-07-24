@@ -14,4 +14,10 @@ public:
 	static void QuickSort(T* input_array, const int N) {
 		return;
 	}
+
+	// merge sort
+	template <typename T>
+	static void MergeSort(T* input_array, const int N){
+		return;
+	}
 };
