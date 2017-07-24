@@ -120,6 +120,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\include\BinaryTree.hpp" />
     <ClInclude Include="..\include\Sortings.hpp" />
   </ItemGroup>
   <ItemGroup>
